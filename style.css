@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+
+}
+#Start ,#stop{
+    background-color: purple;
+    color: black;
+    width: 90px;
+    height: 50px;
+    border-radius: 7px;
+    gap: 3px;
+    /* padding: 120px; */
+    margin: 100px;
+
+
+}
